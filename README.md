@@ -237,6 +237,6 @@ Model performance on 500 student records (80 / 20 train-test split):
 
 ---
 
-Author
-Asmita Rajendra 
+**Asmita Rajendra**
+[LinkedIn](https://www.linkedin.com/in/asmita-r-5b23691a1/)· [GitHub](https://github.com/asmi2604)
 *Built as a machine learning case study — Jamboree Education, April 2026*
