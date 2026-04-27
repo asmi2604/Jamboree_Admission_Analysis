@@ -1,6 +1,6 @@
 # Jamboree Education — Graduate Admissions Predictor
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/jamboree-admission-predictor/blob/main/Jamboree_Admission_CaseStudy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asmi2604/Jamboree_Admission_Analysis/blob/main/Jamboree_Admission_CaseStudy.ipynb)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-OLS%20Regression-orange.svg)](https://www.statsmodels.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Ridge%20%7C%20Lasso-F7931E.svg)](https://scikit-learn.org/)
