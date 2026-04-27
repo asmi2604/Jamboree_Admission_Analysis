@@ -99,22 +99,11 @@ jamboree-admission-predictor/
 
 ---
 
-## Quick Start
-
-### Google Colab (Recommended)
-
-```
-1. Click the "Open in Colab" badge above
-2. Upload Jamboree_Admission.csv via the Files panel (folder icon, left sidebar)
-3. Runtime → Run all
-```
-
 ### Local
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/jamboree-admission-predictor.git
-cd jamboree-admission-predictor
+git clone https://github.com/asmi2604/Jamboree_Admission_Analysis.git
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn scipy
