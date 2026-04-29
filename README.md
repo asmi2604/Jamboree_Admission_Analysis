@@ -1,4 +1,4 @@
-# Jamboree Education — Graduate Admissions Predictor
+# Jamboree Education (Graduate Admissions Predictor)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asmi2604/Jamboree_Admission_Analysis/blob/main/Jamboree_Admission_CaseStudy.ipynb)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
