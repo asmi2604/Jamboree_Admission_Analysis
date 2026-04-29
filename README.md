@@ -99,21 +99,6 @@ jamboree-admission-predictor/
 
 ---
 
-### Local
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/asmi2604/Jamboree_Admission_Analysis.git
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn statsmodels scikit-learn scipy
-
-# 3. Launch the notebook
-jupyter notebook Jamboree_Admission_CaseStudy.ipynb
-```
-
----
-
 ## Dataset
 
 | Column | Description | Range |
